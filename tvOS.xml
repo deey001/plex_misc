@@ -33,6 +33,6 @@
       <Limitations>
         <UpperBound name="audio.channels" value="8" />
       </Limitations>
-    </VideoAudioCodec>
+    </VideoAudioCodec> 
   </CodecProfiles>
 </Client>
